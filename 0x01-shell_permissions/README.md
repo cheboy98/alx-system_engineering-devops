@@ -10,3 +10,5 @@ Change file ownership.
 Create an empty file.
 #5. Execute
 Add the execute permission to hello.
+#6. Multiple permissions
+Add multiple permissions to a file.
