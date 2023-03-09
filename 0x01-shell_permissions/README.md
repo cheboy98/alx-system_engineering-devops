@@ -6,3 +6,5 @@ Print the username of the current user.
 List all the groups the current user belong to.
 #3. New owner
 Change file ownership.
+#4. Empty
+Create an empty file.
