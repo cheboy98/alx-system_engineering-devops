@@ -12,3 +12,5 @@ Create an empty file.
 Add the execute permission to hello.
 #6. Multiple permissions
 Add multiple permissions to a file.
+#7. Everybody
+Add execute permission to everybody.
