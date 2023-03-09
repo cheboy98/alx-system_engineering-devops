@@ -18,3 +18,5 @@ Add execute permission to everybody.
 Give full access rights to others.
 #9. John Doe
 Gives specific permissions.
+#10. look in the mirror
+Mirror permissions. 
