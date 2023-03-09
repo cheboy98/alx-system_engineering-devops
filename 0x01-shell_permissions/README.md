@@ -21,4 +21,6 @@ Gives specific permissions.
 #10. look in the mirror
 Mirror permissions.
 #11. Directories
-Change directories permissions recursively. 
+Change directories permissions recursively.
+#12. More directories
+Create a direstory with predefine permissions. 
