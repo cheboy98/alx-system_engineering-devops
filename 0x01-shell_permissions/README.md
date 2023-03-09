@@ -14,3 +14,5 @@ Add the execute permission to hello.
 Add multiple permissions to a file.
 #7. Everybody
 Add execute permission to everybody.
+#8. James Bond
+Give full access rights to others.
