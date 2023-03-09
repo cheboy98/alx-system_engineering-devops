@@ -26,5 +26,7 @@ Change directories permissions recursively.
 Create a direstory with predefine permissions.
 #13. Change group
 Change group ownership.
-#13. Owner and Group
-Change file owner and group. 
+#14. Owner and Group
+Change file owner and group.
+#15. Symbolic links
+Change file owner and group of symbolic links. 
