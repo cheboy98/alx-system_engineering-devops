@@ -23,4 +23,6 @@ Mirror permissions.
 #11. Directories
 Change directories permissions recursively.
 #12. More directories
-Create a direstory with predefine permissions. 
+Create a direstory with predefine permissions.
+#13. Change group
+Change group ownership. 
