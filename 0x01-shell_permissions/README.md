@@ -8,3 +8,5 @@ List all the groups the current user belong to.
 Change file ownership.
 #4. Empty
 Create an empty file.
+#5. Execute
+Add the execute permission to hello.
