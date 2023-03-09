@@ -16,3 +16,5 @@ Add multiple permissions to a file.
 Add execute permission to everybody.
 #8. James Bond
 Give full access rights to others.
+#9. John Doe
+Gives specific permissions.
