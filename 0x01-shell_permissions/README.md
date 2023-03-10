@@ -29,4 +29,6 @@ Change group ownership.
 #14. Owner and Group
 Change file owner and group.
 #15. Symbolic links
-Change file owner and group of symbolic links. 
+Change file owner and group of symbolic links.
+#16. If only
+Change the owner if only. 
